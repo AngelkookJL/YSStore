@@ -13,7 +13,7 @@
 {"key":"️玩偶妹夫","name":" 🦖┃玩偶🧸妹夫","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/6396/json/womf.json","jar":"https://already.free.hr/alantang1977/X/master/jar/doll.jar"},
 
 		{"key": "豆瓣","name": " 📧┃豆瓣","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"ext": "https://d.kstore.space/download/8091/pgbox/lib/douban.json"},
-		{"key": "Fangniu4k","name": "🐄┃放牛┃TV","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/fangniu.jar"},
+		{"key": "Fangniu4k","name": "🐄┃放牛┃TV","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar":"https://d.kstore.space/download/8091/jar/fangniu.jar"},
 		{"key": "AList","name": "🧸Alist小雅","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png","drives": [{"name": "小雅","server": "http://xiaoya.xlog.cc/","startPage": "/","showAll": false,"search": true,"headers": {"Authorization": ""}}]}},
 		{"key":"Yscapp","name":"💖┃影视车┃App","type":3,"api":"csp_Yscapp","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "playerType":1, "playerType":1, "ext":"1"},
 		{"key":"Zhuiyitv","name":"💯┃追忆┃App","type":3,"api":"csp_Zhuiyitv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
